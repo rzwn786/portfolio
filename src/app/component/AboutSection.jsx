@@ -67,11 +67,11 @@ const AboutSection = () => {
             <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                 <h2 className="font-bold text-3xl text-white justify-start mb-4">About Me</h2>
                 <p className="text-base lg:text-lg text-slate-400">
-                As a web developer, mobile developer, and UI/UX designer, I bring a diverse skill set to the table. My love for coding is matched only by my enthusiasm for creating seamless and visually appealing user experiences. Whether it's crafting elegant code or designing intuitive interfaces, I thrive on the challenges of the digital landscape.<br></br>
+                As a web developer, mobile developer, and UI/UX designer, I bring a diverse skill set to the table. My love for coding is matched only by my enthusiasm for creating seamless and visually appealing user experiences. Whether it&apos;s crafting elegant code or designing intuitive interfaces, I thrive on the challenges of the digital landscape.<br></br>
                 <br></br>
                 Constantly evolving and staying up-to-date with the latest trends in technology, I am committed to continuous learning. Every project is an opportunity to push boundaries, solve problems, and refine my skills. I believe in the power of collaboration, and I am always excited to work with like-minded individuals and organizations to bring innovative ideas to life.<br></br>
                 <br></br>
-                When I'm not immersed in the world of code, you can find me exploring new coffee shops, doodling in my sketchbook, or contemplating the next adventure in my favorite book. I'm not just a developer; I'm a storyteller using code as my medium.<br></br>
+                When I&apos;m not immersed in the world of code, you can find me exploring new coffee shops, doodling in my sketchbook, or contemplating the next adventure in my favorite book. I&apos;m not just a developer; I&apos;m a storyteller using code as my medium.<br></br>
                 <br></br>
                 </p>
                 <div className="flex flex-row justify-center mt-8">

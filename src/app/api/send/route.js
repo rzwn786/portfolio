@@ -16,7 +16,7 @@ export async function POST(req, res) {
       react:(
         <>
             <h1>{subject}</h1>
-            <P>Thank You for contacting us</P>
+            <p>Thank You for contacting us</p>
             <p>New message submitted</p>
             <p>{message}</p>
         </>
